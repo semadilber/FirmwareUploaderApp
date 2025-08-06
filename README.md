@@ -188,14 +188,10 @@ This project is open source and distributed under the MIT license.
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## 📞 Support
 
-For questions:
-- Open an issue
-- Check documentation
-- Review test files
+<img width="912" height="1013" alt="image" src="https://github.com/user-attachments/assets/c516b8bc-1323-4730-a774-70a462fbe2ea" />
 
----
+
 
 **Note**: This application is designed to work with STM32 bootloaders. Ensure your bootloader firmware sends ACK (0x06) and NACK (0x15) responses.
 

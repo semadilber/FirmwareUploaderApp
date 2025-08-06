@@ -2,6 +2,8 @@
 
 A UART-based firmware upload application for STM32 bootloaders. Features a modern and user-friendly graphical interface using 21-byte fixed-length packets for secure firmware transfer and sector erasing operations.
 
+<img width="912" height="1013" alt="image" src="https://github.com/user-attachments/assets/c516b8bc-1323-4730-a774-70a462fbe2ea" />
+
 ## 🚀 Features
 
 - **Modern GUI**: Tkinter-based user-friendly interface
@@ -188,12 +190,8 @@ This project is open source and distributed under the MIT license.
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
+**Note**: This application is designed to work with STM32 bootloaders.(https://github.com/semadilber/CustomBootloader) Ensure your bootloader firmware sends ACK (0x06) and NACK (0x15) responses.
 
-<img width="912" height="1013" alt="image" src="https://github.com/user-attachments/assets/c516b8bc-1323-4730-a774-70a462fbe2ea" />
-
-
-
-**Note**: This application is designed to work with STM32 bootloaders. Ensure your bootloader firmware sends ACK (0x06) and NACK (0x15) responses.
 
 ## 🤖 AI Development Note
 
